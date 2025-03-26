@@ -2285,3 +2285,15 @@
 3/26/2025 | 8:20:49 AM | INFO | Trying to check user miner status... 
 3/26/2025 | 8:20:50 AM | INFO | Last mining time: 3/25/2025, 8:21:12 AM
 3/26/2025 | 8:20:50 AM | WARN | Mining already started, next mining time is: 3/26/2025, 8:21:12 AM
+3/26/2025 | 12:32:01 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/26/2025 | 12:32:02 PM | INFO | Start process for wallet 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+3/26/2025 | 12:32:03 PM | INFO | Trying To Login for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+3/26/2025 | 12:32:03 PM | INFO | Login successful... 
+3/26/2025 | 12:32:03 PM | INFO | Trying to check user info... 
+3/26/2025 | 12:32:04 PM | INFO | User ID: 103347504 | Twitter: @syakilanora | Total Points: 840000 
+3/26/2025 | 12:32:04 PM | INFO | Trying to check user miner status... 
+3/26/2025 | 12:32:05 PM | INFO | Last mining time: 3/25/2025, 8:21:12 AM
+3/26/2025 | 12:32:05 PM | INFO | Trying to start Mining for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+3/26/2025 | 12:32:06 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/26/2025 | 12:32:06 PM | INFO | Trying to activate mining on-chain for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+3/26/2025 | 12:32:13 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf1d406fa5dfe9dc422c259f3a8ef3ac81e30a28cbcdd66e6257afee47604e750 
