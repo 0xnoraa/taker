@@ -5493,3 +5493,16 @@
 5/21/2025 | 4:21:38 PM | INFO | Trying to check user miner status... 
 5/21/2025 | 4:21:39 PM | INFO | Last mining time: 5/20/2025, 8:18:54 PM
 5/21/2025 | 4:21:39 PM | WARN | Mining already started, next mining time is: 5/21/2025, 8:18:54 PM
+5/21/2025 | 8:18:23 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 8:18:23 PM | INFO | Start process for wallet 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+5/21/2025 | 8:18:24 PM | INFO | Trying To Login for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+5/21/2025 | 8:18:24 PM | INFO | Login successful... 
+5/21/2025 | 8:18:24 PM | INFO | Trying to check user info... 
+5/21/2025 | 8:18:25 PM | INFO | User ID: 103347504 | Twitter: @syakilanora | Total Points: 2088000 
+5/21/2025 | 8:18:25 PM | INFO | Trying to check user miner status... 
+5/21/2025 | 8:18:26 PM | INFO | Last mining time: 4/3/2025, 4:20:18 AM
+5/21/2025 | 8:18:26 PM | INFO | Trying to start Mining for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+5/21/2025 | 8:18:26 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/21/2025 | 8:18:26 PM | INFO | Trying to activate mining on-chain for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+5/21/2025 | 8:18:27 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x31","from":"0xe1755a90943f3858ea7a091b46b772fc7c5ee8b3","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/21/2025 | 8:18:27 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
