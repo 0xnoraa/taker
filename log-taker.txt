@@ -6190,3 +6190,16 @@
 6/3/2025 | 1:22:22 AM | INFO | Trying to check user miner status... 
 6/3/2025 | 1:22:23 AM | INFO | Last mining time: 6/2/2025, 8:19:00 PM
 6/3/2025 | 1:22:23 AM | WARN | Mining already started, next mining time is: 6/3/2025, 8:19:00 PM
+6/3/2025 | 4:23:59 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/3/2025 | 4:23:59 AM | INFO | Start process for wallet 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+6/3/2025 | 4:23:59 AM | INFO | Trying To Login for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+6/3/2025 | 4:24:00 AM | INFO | Login successful... 
+6/3/2025 | 4:24:00 AM | INFO | Trying to check user info... 
+6/3/2025 | 4:24:01 AM | INFO | User ID: 103347504 | Twitter: @syakilanora | Total Points: 2352000 
+6/3/2025 | 4:24:01 AM | INFO | Trying to check user miner status... 
+6/3/2025 | 4:24:28 AM | INFO | Last mining time: 6/1/2025, 8:17:51 PM
+6/3/2025 | 4:24:28 AM | INFO | Trying to start Mining for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+6/3/2025 | 4:24:53 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+6/3/2025 | 4:24:53 AM | INFO | Trying to activate mining on-chain for wallet: 0xE1755a90943F3858EA7a091b46b772fC7C5EE8b3 
+6/3/2025 | 4:24:54 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"500 Internal Server Error"},"shortMessage":"server response 500 Internal Server Error"}
+6/3/2025 | 4:24:54 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
